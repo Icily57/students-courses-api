@@ -8,4 +8,6 @@
 2. Install dependencies:
    ```bash
    pnpm install
-  
+3. To run the API
+   ```bash
+   pnpm run dev
