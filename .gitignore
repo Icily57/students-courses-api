@@ -1,0 +1,4 @@
+# Database connection string 
+.env
+# DB_URL=postgresql://Restaurant-mgmt-stm_owner:9gixZrLFoB8O@ep-raspy-rice-a22x00gn-pooler.eu-central-1.aws.neon.tech/students-courses-api?sslmode=require&channel_binding=require
+# Node modules
